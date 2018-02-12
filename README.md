@@ -9,16 +9,18 @@ Part 1:
 - How Core Data Works
 - How to save data permamently
 - How to load data back again
-
-# Upcoming code
+- Video: https://www.youtube.com/watch?v=ndfPzEuYT0A
 
 Part 2:
-- Have your NSManagedObjects as ClassNames for each Entity
-- Explaining all the attributes
+- Structure your app code correctly for Core Data
 - Show different ways of load data first time
-- show different loading (fetch) options and how to sort them
+- Have your NSManagedObjects as ClassNames for each Entity
 
 Part 3:
+- Explaining attributes
+- show different loading (fetch) options and how to sort them
+
+Part 4:
 - NSFetchedController to hava an easier controlling in TableViews
 
 Extra:
